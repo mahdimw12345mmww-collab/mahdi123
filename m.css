@@ -1,0 +1,313 @@
+body{
+    background-color: #2d174d;
+    color: rgb(150, 124, 173);
+    font-size: 25px;
+    text-shadow: 15px 10px 10px rebeccapurple;
+    font-family: 'Segoe Script';
+    font-family: 'Urdu Typesetting';
+
+
+}
+
+body:hover{
+    cursor:auto;
+}
+
+h1{
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Segoe Script';
+}
+
+p{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    justify-content: center;
+    gap: 20px;
+}
+
+.com{
+    height: auto;
+    padding: 15px;
+    flex-direction: column;
+    gap: 10px;
+    box-sizing: border-box;
+    display: flex;
+}
+
+div{
+    border-radius: 20px ;
+    padding: 50px;
+    margin: 50px;
+    box-shadow: 15px 30px 30px;
+    background-color: #2d174d;
+    
+    
+}
+
+nav {
+    display: flex;
+    direction: rtl;
+    gap: 130px;
+    font-size: 50px;
+}
+
+nav a{
+    transition: 0.5s;
+    text-decoration: none;
+}
+
+nav a:hover{
+    color: aqua;
+    transform: scale(1.5);
+
+}
+
+a{
+    transition: 0.5;
+}
+
+.m{
+    width: fit-content;
+    height: fit-content;
+    padding: 0;
+    margin: auto;
+    transition: 0.5s;
+    font-family: 'Segoe Script';
+    
+}
+
+.m:hover{
+    rotate: 360deg;
+}
+
+img{
+    width: 250px;
+}
+
+.pa{
+    text-align: right;
+}
+
+button{
+    border-radius: 50px;
+    transition: 0.5s;
+    background-color: aqua;
+    color: #2d174d;
+
+}
+
+button:hover{
+    background-color:#2d174d;
+    color: aqua;
+    transform: scale(2.2);
+}
+
+input{
+    background-color: #2d174d;
+    box-shadow: 15px 16px 17px rebeccapurple;
+}
+
+textarea{
+    background-color: #2d174d;
+    box-shadow: 15px 30px 30px ;
+}
+
+.s{
+    transition: 0.5s;
+}
+
+.s:hover{
+    transform: scale(1.1)
+    
+}
+
+.b{
+    transition: 0.5s;
+}
+
+.b:hover{
+    transform: scale(1.1)
+    
+}
+
+.s{
+    transition: 0.5s;
+}
+
+.s:hover{
+    transform: scale(1.1)
+    
+}
+
+.s{
+    transition: 0.5s;
+}
+
+.s:hover{
+    transform: scale(1.1)
+    
+}
+
+.s{
+    transition: 0.5s;
+}
+
+.s:hover{
+    transform: scale(1.1)
+    
+}
+
+.C{
+    transition: 0.5s;
+    
+}
+
+.C:hover{
+    transform: scale(1.1)
+    
+}
+
+.Z{
+    transition: 0.5s;
+}
+
+.Z:hover{
+    transform: scale(1.1)
+    
+}
+
+.X{
+    transition: 0.5s;
+}
+
+.X:hover{
+    transform: scale(1.1)
+    
+}
+
+.V{
+    transition: 0.5s;
+}
+
+.V:hover{
+    transform: scale(1.1)
+    
+}
+
+.O{
+    transition: 0.5s;
+}
+
+.O:hover{
+    transform: scale(1.1)
+    
+}
+
+.K{
+    transition: 0.5s;
+}
+
+.K:hover{
+    transform: scale(1.1)
+    
+}
+
+s{
+    transition: 0.5s;
+}
+
+s:hover{
+    transform: scale(1.1)
+    
+}
+
+.Q{
+    transition: 0.5s;
+}
+
+.Q:hover{
+    transform: scale(1.1)
+    
+}
+
+
+.Q:hover{
+    transform: scale(1.1)
+    
+}
+
+.Q{
+    transition: 0.5s;
+}
+
+.Q:hover{
+    transform: scale(1.1)
+    
+}
+
+.Q{
+    transition: 0.5s;
+}
+
+.Q:hover{
+    transform: scale(1.1)
+    
+}
+
+.Q{
+    transition: 0.5s;
+}
+
+.Q:hover{
+    transform: scale(1.1)
+    
+}
+
+.Q{
+    transition: 0.5s;
+}
+
+.Q:hover{
+    transform: scale(1.1)
+    
+}
+
+.Q{
+    transition: 0.5s;
+}
+
+.Q:hover{
+    transform: scale(1.1)
+    
+}
+
+.Q{
+    transition: 0.5s;
+}
+
+.Q:hover{
+    transform: scale(1.1)
+    
+}
+
+.zx{
+    background-color: #2f4d17;
+    font-size: 100px;
+    font-family: 'Segoe Script';
+}
+
+
+.s{
+    font-family: 'Segoe Script';
+}
+
+.Z{
+    font-family: 'Segoe Script';
+}
+.Q{
+    font-family: 'Segoe Script';
+}
+
+
